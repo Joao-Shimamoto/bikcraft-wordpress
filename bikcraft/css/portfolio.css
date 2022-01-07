@@ -1,0 +1,29 @@
+/*.interna_portfolio {
+	background: url("../img/bg_portfolio.jpg") no-repeat center;
+	background-size: cover;
+} */
+/*Foi colocado na introducao.php */
+
+.quote-portfolio {
+	max-width: 550px;
+	margin: 0 auto;
+	padding: 60px 0;
+}
+
+.quote-portfolio p {
+	font-family: "Georgia", "Times New Roman", "serif";
+	font-style: italic;	
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.quote-portfolio cite {
+	float: right;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	letter-spacing: 0;
+}
+
